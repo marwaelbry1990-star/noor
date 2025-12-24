@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://noor-ruddy.vercel.app/sitemap.xml
